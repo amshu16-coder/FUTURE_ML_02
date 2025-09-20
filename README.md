@@ -1,0 +1,1 @@
+Churn Prediction System using Machine Learning to identify customers likely to leave a service. Features data preprocessing, model training, and evaluation to forecast churn accurately, enabling proactive retention strategies and improved business decisions—all in a streamlined ML pipeline.
